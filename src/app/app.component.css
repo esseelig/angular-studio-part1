@@ -1,4 +1,8 @@
 .box {
     display: flex;
     padding: 10px;
+    border-style:ridge;
+    background-color: bisque;
+    font-family: fantasy;
 }
+

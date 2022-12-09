@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+    background-color: thistle;
+}
+
+h3 {
+    text-shadow: 10pt;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: azure;  
+    border-style: dotted;
+}
